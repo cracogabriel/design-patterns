@@ -1,6 +1,3 @@
-/**
- * The Context defines the interface of interest to clients.
- */
 class Context {
   private strategy: Strategy;
 
